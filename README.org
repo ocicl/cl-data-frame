@@ -1,0 +1,9 @@
+* cl-data-frame
+
+Data frames for Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/tpapp/cl-data-frame.git |
+| commit  | 915b364                                        |
+| systems | cl-data-frame                                  |
+|---------+------------------------------------------------|
